@@ -3,7 +3,7 @@ This repository contains various TensorFlow benchmarks. Currently, it consists o
 
 1. [scripts/tf_cnn_benchmarks](https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks): The TensorFlow CNN benchmarks contain benchmarks for several convolutional neural networks.
 
-This branch is compatible with Tensorflow 1.13, 1.14 and 1.15
+This branch is compatible with Tensorflow 1.13, 1.14 and 1.15 (but not with Tensorflow 2.x)
 
 ## Usage
 
