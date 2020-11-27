@@ -10,7 +10,7 @@ This branch is compatible with Tensorflow 1.13, 1.14 and 1.15 (but not with Tens
 for GPU:
 
 ```
-python3 ./scripts/tf_cnn_benchmarks/tf_cnn_benchmarks.py --model resnet50 --num_gpus=1 --batch_size=128
+python3 ./scripts/tf_cnn_benchmarks/tf_cnn_benchmarks.py --model resnet50 --num_gpus=1 --batch_size=64
 ```
 
 for CPU:
