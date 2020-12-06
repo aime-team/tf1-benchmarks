@@ -23,4 +23,4 @@ python3 ./scripts/tf_cnn_benchmarks/tf_cnn_benchmarks.py --model resnet50 --devi
 
 Benchmarks meassured with this scripts are available here:
 
-[AIME Deep Learning Benchmarks 2019](https://www.aime.info/blog/deep-learning-gpu-benchmarks-2019/)
+[AIME Deep Learning Benchmarks 2020](https://www.aime.info/blog/deep-learning-gpu-benchmarks-2020/)
